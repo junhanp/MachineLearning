@@ -1,0 +1,30 @@
+10 Countries:
+
+    China
+    Japan
+    Sweden
+    Russia
+    Argentina
+    Ukraine
+    Netherlands
+    Spain
+    Denmark
+    Germany
+
+Predictions of the 10 countries
+
+[34.28001508  0.65739655 47.18851276 17.61010724 30.87630687 16.13227849
+ 36.69945562 45.02181437 47.54134436 21.38276867]
+
+True values
+
+[ 0.34,  1.36, 58.26, 17.91, 64.94, 14.71, 41.25, 74.38, 12.11,
+       12.13]
+
+USA Predictions
+
+[43.16663561]
+
+USA True values
+
+[68.84]
